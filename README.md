@@ -4,3 +4,5 @@
 - :moneybag: I take freelance projects for small websites.
 
 ![](code.gif)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=meeta13&show_icons=true&theme=algolia)
